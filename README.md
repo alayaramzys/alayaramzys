@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramzy</h1>
-<h1 align="center">Junior web developer</h1>
+<h1 align="center">Web Developer</h1>
 
 - 📫 How to reach me **Ramzyalaya.dev@gmail.com**
 
